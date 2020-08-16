@@ -1,0 +1,13 @@
+#MENU{
+    width: 960px;
+    display: block;
+    width: 100%;
+
+}
+
+#MENU a{
+    float: left;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: grey;
+}
